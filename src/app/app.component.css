@@ -14,7 +14,6 @@ h5 {
 }
 
 .btnImgs img {
-  width: 10%;
+  width: 15%;
   margin: 5%;
-  object-fit: fill;
 }
